@@ -1,3 +1,22 @@
+# CGM Lab Assignment 1 - Basic Shapes
+
+## Objective
+
+To understand and implement basic graphics primitives using C++ and the graphics.h library.
+
+## Shapes Drawn
+
+The program draws the following basic graphics primitives
+
+1. Straight Line
+2. Circle
+3. Rectangle
+4. Triangle
+
+# output 
+
+![Basic Graphics Output](Home/src/output_ss.png)
+
 # Graphics library setup 
 
 ## Quick setup
@@ -6,7 +25,7 @@
 git clone https://github.com/ullaskunder3/graphics.h-project-template.git
 ```
 
-Detail setup can be found on my other repo [solution-to-graphics.h](https://github.com/ullaskunder3/Solution-to-graphics.h)
+
 
 ## My directory look like
 
